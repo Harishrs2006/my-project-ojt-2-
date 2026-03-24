@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+build.log
+*.js
+*.js.map
+fix.ps1
+seed.ps1
